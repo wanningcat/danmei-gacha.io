@@ -1,3 +1,6 @@
+body {
+background-color: #040d59;
+}
 .btn {
-color: pink;
+border: 2px solid pink;
 }
